@@ -1,0 +1,6 @@
+---
+configuration_env: dev
+code_repo_url: git@gitee.com:LBX_1_leebinxian/yzn_code_dev.git
+binary_repo_url: git@gitee.com:LBX_1_leebinxian/yzn_bin_dev.git
+binary_download_url: http://120.79.83.17:80/frameworks/%s/%s/zip
+download_file_type: zip
